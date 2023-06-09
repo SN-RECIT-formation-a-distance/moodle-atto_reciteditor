@@ -1,3 +1,12 @@
+# NOTICE
+This repository is deprecated.
+
+The new version of the HTML Bootstrap Editor can be found at these 2 links below:
+
+https://github.com/SN-RECIT-formation-a-distance/moodle-tool_htmlbootstrapeditor
+
+https://github.com/SN-RECIT-formation-a-distance/moodle-atto_htmlbootstrapeditor
+
 # atto_reciteditor
 
 The HTML Bootstrap editor allows you to create a much more attractive and responsive layout. It is based on the Bootstrap 4 framework and its drag-and-drop usage makes it easy to integrate content into Moodle. It offers a wide range of elements (text, image, Youtube video, embed elements, etc.) commonly used today. This editor meets the first level of accessibility standards and ensures a consistent presentation of content, regardless of the type of device used: computer, tablet or smartphone.
